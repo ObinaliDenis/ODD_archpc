@@ -101,7 +101,7 @@ header-includes:
 
 Заменим текст на текст из листинга 6.2
 
-![Рис. 6](/home/ddobinali/work/study/2022-2023/Архитектура компьютера/ODD_archpc/labs/lab06/report/image/lab05_12.png) { #fig:001 width=90% }
+![Рис. 6](https://github.com/ObinaliDenis/ODD_archpc/blob/master/labs/lab06/report/image/lab05-12.png?raw=true) { #fig:001 width=90% }
 
 Создадим исполняемый файл и проверим его работу
 
